@@ -8,10 +8,10 @@
 		<version>2.6.0-SNAPSHOT</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.sandipan.work</groupId>
-	<artifactId>app-dashboard</artifactId>
+	<groupId>com.sandipan.work.tma</groupId>
+	<artifactId>tma-dashboard-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>app-dashboard</name>
+	<name>Task Management Automation Dashboard Service</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>11</java.version>

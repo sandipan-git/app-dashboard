@@ -1,13 +1,13 @@
-package com.sandipan.work.dashboard;
+package com.sandipan.work.tma;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class AppDashboardApplication {
+public class TMADashboardServiceApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(AppDashboardApplication.class, args);
+		SpringApplication.run(TMADashboardServiceApplication.class, args);
 	}
 
 }

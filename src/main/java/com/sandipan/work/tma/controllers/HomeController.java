@@ -1,4 +1,4 @@
-package com.sandipan.work.dashboard.controllers;
+package com.sandipan.work.tma.controllers;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
